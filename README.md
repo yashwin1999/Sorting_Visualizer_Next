@@ -72,5 +72,4 @@ Key dependencies from **package.json** include:
 - **React**: UI library.
 - **Tailwind CSS**: Utility-first CSS framework.
 - **Chart.js** and **react-chartjs-2**: For charting and visualization.
-=======
-# Sorting_Visualizer_Next
+======
