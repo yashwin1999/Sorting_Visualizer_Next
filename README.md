@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Author: Yashwin Bangalore Subramani
 
 Sorting Visualizer Next (Sorting Comparison)
@@ -75,4 +74,3 @@ Key dependencies from **package.json** include:
 - **Chart.js** and **react-chartjs-2**: For charting and visualization.
 =======
 # Sorting_Visualizer_Next
->>>>>>> origin/main
