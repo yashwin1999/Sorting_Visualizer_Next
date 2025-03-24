@@ -1,5 +1,5 @@
+<<<<<<< HEAD
 Author: Yashwin Bangalore Subramani
-Student ID: 1002248361
 
 Sorting Visualizer Next (Sorting Comparison)
 =======================
@@ -11,16 +11,19 @@ Overview
 --------
 This project enables users to visualize different sorting algorithms with options to:
 - Select and compare sorting algorithms.
-- Adjust settings like speed and array size.
 - View animated sorting processes in a real-time graph.
 
-Setup Instructions
+Installation Instructions
 ------------------
-1. **Download and Unzip**:
-   - Unzip the downloaded file to your preferred directory.
+1. **Clone the Repository**:
+   - If you haven't already, clone the repository from GitHub
 
-2. **Open sorting_visualizer_next folder in any IDE**:
-   - Use any IDE and open the folder sorting_visualizer_next,open the terminal and make sure the directory points to the main folder "sorting_visualizer_next".
+2. **Navigate to the Project Directory**:
+   - Move into the project directory:
+     ```
+     cd sorting_visualizer_next
+     ```
+
 
 3. **Install Dependencies**:
    - Open a terminal in the project directory.
@@ -36,12 +39,12 @@ Running the Application
      ```
      npm run dev
      ```
-   - Open your browser and go to http://localhost:3000 to view the app.
+   - Open your browser and go to http://localhost:3000 (or which ever port that the server is using) to view the app.
 
-     ```
 3. **Start in Production Mode**:
    - After building, start the production server with:
      ```
+     npm run build
      npm start
      ```
 
@@ -63,9 +66,13 @@ Using the Application
    - Click on "Start" to begin the visualization.
    - The application will animate the sorting process in real time.
 
-Project Structure
+Dependencies
 -----------------
-- **/pages**: Main pages of the application.
-- **/components**: Reusable components including the sorting visualizer.
-- **/utils**: Utility functions like the array generator.
-- **/public**: Static assets such as images and icons.
+Key dependencies from **package.json** include:
+- **Next.js**: Framework for server-side rendering.
+- **React**: UI library.
+- **Tailwind CSS**: Utility-first CSS framework.
+- **Chart.js** and **react-chartjs-2**: For charting and visualization.
+=======
+# Sorting_Visualizer_Next
+>>>>>>> origin/main
